@@ -12,6 +12,9 @@ body {
 	height: 100%;
 	align-items: center;
 }
-#idRestant {
-	
+#tempsRestant {
+	border: 1px solid black;
+	font-size: 10em;
+	width:90%;
+	text-align: center;
 }

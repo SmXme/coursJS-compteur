@@ -5,6 +5,13 @@ html,body{
 body {
 	background-color: white;
 }
-#idRestant {
 
+.container{
+	display: flex;
+	justify-content: center;
+	height: 100%;
+	align-items: center;
+}
+#idRestant {
+	
 }
